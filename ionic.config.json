@@ -1,0 +1,7 @@
+{
+  "name": "UIDESIGN",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
